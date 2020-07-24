@@ -1,1 +1,1 @@
-# C-Standard-I-O-Library
+# C-Standard-I/O-Library
